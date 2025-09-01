@@ -10,7 +10,6 @@
 
 
 **Lecture 0: Introduction**
-
 [Slides](https://github.com/chung-jiwoong/BUSS975-Slides/blob/main/notes/00_Introduction/00_Introduction.pdf)
 
 
@@ -18,9 +17,11 @@
 **Lecture 0: Review**
 
 Probability: [Slides](https://github.com/chung-jiwoong/BUSS975-Slides/blob/main/notes/00_Review/00_review_A.pdf)
+
 Expectation: [Slides](https://github.com/chung-jiwoong/BUSS975-Slides/blob/main/notes/00_Review/00_review_B.pdf)
+
 Estimation: [Slides](https://github.com/chung-jiwoong/BUSS975-Slides/blob/main/notes/00_Review/00_review_C.pdf)
+
 Hypothesis: [Slides](https://github.com/chung-jiwoong/BUSS975-Slides/blob/main/notes/00_Review/00_review_D.pdf)
     
 
-    
