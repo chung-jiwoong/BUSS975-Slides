@@ -12,7 +12,7 @@
 **Lecture 0: Introduction**
 [Slides](https://github.com/chung-jiwoong/BUSS975-Slides/blob/main/notes/00_Introduction/00_Introduction.pdf),
 [Note](https://github.com/chung-jiwoong/BUSS975-Slides/blob/main/notes/00_Introduction/Intro.pdf), 
-[Exercise](https://github.com/chung-jiwoong/BUSS975-Slides/blob/main/notes/00_Introduction/00_Introduction_PS.pdf)
+[Exercise](https://github.com/chung-jiwoong/BUSS975-Slides/blob/main/notes/00_Introduction/00_introduction_PS.pdf)
 
 
 **Lecture 0: Review**
@@ -20,15 +20,12 @@
 Probability: [Slides](https://github.com/chung-jiwoong/BUSS975-Slides/blob/main/notes/00_Review/00_review_A.pdf),
 [Note](https://github.com/chung-jiwoong/BUSS975-Slides/blob/main/notes/00_Review/review_A.pdf),
 [Exercise](https://github.com/chung-jiwoong/BUSS975-Slides/blob/main/notes/00_Review/00_review_A_PS.pdf) \ 
-
 Expectation: [Slides](https://github.com/chung-jiwoong/BUSS975-Slides/blob/main/notes/00_Review/00_review_B.pdf), 
 [Note](https://github.com/chung-jiwoong/BUSS975-Slides/blob/main/notes/00_Review/review_B.pdf),
 [Exercise](https://github.com/chung-jiwoong/BUSS975-Slides/blob/main/notes/00_Review/00_review_B_PS.pdf) \ 
-
 Estimation: [Slides](https://github.com/chung-jiwoong/BUSS975-Slides/blob/main/notes/00_Review/00_review_C.pdf), 
 [Note](https://github.com/chung-jiwoong/BUSS975-Slides/blob/main/notes/00_Review/review_C.pdf),
-[Exercise](https://github.com/chung-jiwoong/BUSS975-Slides/blob/main/notes/00_Review/00_review_C_PS.pdf)  \ 
-
+[Exercise](https://github.com/chung-jiwoong/BUSS975-Slides/blob/main/notes/00_Review/00_review_C_PS.pdf)  \
 Hypothesis: [Slides](https://github.com/chung-jiwoong/BUSS975-Slides/blob/main/notes/00_Review/00_review_D.pdf), 
 [Note](https://github.com/chung-jiwoong/BUSS975-Slides/blob/main/notes/00_Review/review_D.pdf),
 [Exercise](https://github.com/chung-jiwoong/BUSS975-Slides/blob/main/notes/00_Review/00_review_D_PS.pdf) 
