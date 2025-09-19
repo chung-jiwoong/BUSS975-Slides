@@ -34,5 +34,5 @@ Hypothesis: [Slides](https://github.com/chung-jiwoong/BUSS975-Slides/blob/main/n
 **Lecture 1: Linear Regression**
 [Slides1](https://github.com/chung-jiwoong/BUSS975-Slides/blob/main/notes/01_Regression/01_linear_regression1.pdf), 
 [Slides2](https://github.com/chung-jiwoong/BUSS975-Slides/blob/main/notes/01_Regression/01_linear_regression2.pdf),
-[Exercise1](https://github.com/chung-jiwoong/BUSS975-Slides/blob/main/notes/01_Regression/01_linear_regression1_PS.pdf), 
-[Exercise2](https://github.com/chung-jiwoong/BUSS975-Slides/blob/main/notes/01_Regression/01_linear_regression2_PS.pdf), 
+[Exercise1](https://github.com/chung-jiwoong/BUSS975-Slides/blob/main/notes/01_Regression/02_linear_regression1_PS.pdf), 
+[Exercise2](https://github.com/chung-jiwoong/BUSS975-Slides/blob/main/notes/01_Regression/02_linear_regression2_PS.pdf)
