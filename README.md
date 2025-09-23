@@ -40,4 +40,5 @@ Hypothesis: [Slides](https://github.com/chung-jiwoong/BUSS975-Slides/blob/main/n
 
 
 **Lecture 2: Causality**
-[Slides](https://github.com/chung-jiwoong/BUSS975-Slides/blob/main/notes/03_causality/03_causality.pdf)
+[Slides](https://github.com/chung-jiwoong/BUSS975-Slides/blob/main/notes/03_causality/03_causality.pdf), 
+[Exercise](https://github.com/chung-jiwoong/BUSS975-Slides/blob/main/notes/03_causality/03_causality_PS.pdf)
