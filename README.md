@@ -54,5 +54,4 @@ Hypothesis: [Slides](https://github.com/chung-jiwoong/BUSS975-Slides/blob/main/n
 
 
 [test1](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/chung-jiwoong/BUSS975-Slides/blob/main/notes/04_Panel/04_panel_PS.pdf)
-[test2](https://chung-jiwoong.github.io/BUSS975-Slides/blob/main/notes/04_Panel/04_panel_PS.pdf)
-
+[test2](https://chung-jiwoong.github.io/BUSS975-Slides/tree/main/notes/04_Panel/04_panel_PS.pdf)
