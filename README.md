@@ -47,8 +47,12 @@ Hypothesis: [Slides](https://github.com/chung-jiwoong/BUSS975-Slides/blob/main/n
 [Exercise](https://github.com/chung-jiwoong/BUSS975-Slides/blob/main/notes/03_causality/03_causality_PS.pdf)
 
 
-
 **Lecture 3: Panel Data**
 [Slides](https://github.com/chung-jiwoong/BUSS975-Slides/blob/main/notes/04_Panel/04_panel.pdf), 
 [Notes](https://github.com/chung-jiwoong/BUSS975-Slides/blob/main/notes/04_Panel/panel_data_v1.pdf), 
 [Exercise](https://github.com/chung-jiwoong/BUSS975-Slides/blob/main/notes/04_Panel/04_panel_PS.pdf)
+
+
+[test1](https://raw.githubusercontent.com/chung-jiwoong/BUSS975-Slides/blob/main/notes/04_Panel/04_panel_PS.pdf)
+[test2](https://chung-jiwoong.github.io/BUSS975-Slides/blob/main/notes/04_Panel/04_panel_PS.pdf)
+
