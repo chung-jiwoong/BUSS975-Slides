@@ -42,9 +42,9 @@ Hypothesis: [Slides](https://chung-jiwoong.github.io/BUSS975/notes/00_Review/00_
 
 
 **Lecture 2: Causality**
-[Slides](https://chung-jiwoong.github.io/BUSS975/notes/03_Causality/03_causality.pdf), 
-[Notes](https://chung-jiwoong.github.io/BUSS975/notes/03_Causality/causality_v1.pdf), 
-[Exercise](https://chung-jiwoong.github.io/BUSS975/notes/03_Causality/03_causality_PS.pdf)
+[Slides](https://chung-jiwoong.github.io/BUSS975/notes/03_causality/03_causality.pdf), 
+[Notes](https://chung-jiwoong.github.io/BUSS975/notes/03_causality/causality_v1.pdf), 
+[Exercise](https://chung-jiwoong.github.io/BUSS975/notes/03_causality/03_causality_PS.pdf)
 
 
 **Lecture 3: Panel Data**
