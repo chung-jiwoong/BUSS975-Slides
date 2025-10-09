@@ -54,8 +54,8 @@ Hypothesis: [Slides](https://chung-jiwoong.github.io/BUSS975/notes/00_Review/00_
 
 
 **Lecture 4: Instrumental Variables**
-[Slides](https://chung-jiwoong.github.io/BUSS975/notes/05_IV/05_IV.pdf), 
-[Exercise](https://chung-jiwoong.github.io/BUSS975/notes/05_IV/05_IV_PS.pdf)
+[Slides](https://chung-jiwoong.github.io/BUSS975/notes/05_IV/05_iv.pdf), 
+[Exercise](https://chung-jiwoong.github.io/BUSS975/notes/05_IV/05_iv_PS.pdf)
 
 
 
